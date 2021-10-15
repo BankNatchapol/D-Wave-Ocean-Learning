@@ -1,0 +1,3 @@
+[submodule "job-shop-scheduling-cqm"]
+	path = job-shop-scheduling-cqm
+	url = https://github.com/dwave-examples/job-shop-scheduling-cqm.git
